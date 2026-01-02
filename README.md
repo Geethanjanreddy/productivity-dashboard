@@ -49,7 +49,7 @@ A modern, feature-rich task management and productivity dashboard built with Nex
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/productivity-dashboard.git
+   git clone https://github.com/Geethanjanreddy/productivity-dashboard.git
    cd productivity-dashboard
    ```
 
@@ -203,7 +203,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Geethanjanreddy](https://github.com/Geethanjanreddy)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ## 🙏 Acknowledgments
@@ -216,14 +216,17 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📸 Screenshots
 
-### Dashboard View
-![Dashboard](screenshot-dashboard.png)
+### 🎨 Dashboard Overview
+![Dashboard](screenshots/dashboard-desktop.png)
+*Modern glassmorphism design with real-time statistics and task management*
 
-### Task Management
-![Tasks](screenshot-tasks.png)
+### ✨ Task Creation Modal
+![Task Modal](screenshots/task-modal.png)
+*Intuitive task creation with priority levels, tags, and due dates*
 
-### Add Task Modal
-![Modal](screenshot-modal.png)
+### 🎯 Task Cards
+![Task Cards](screenshots/task-card.png)
+*Color-coded priorities, status tracking, and smooth animations*
 
 ---
 
