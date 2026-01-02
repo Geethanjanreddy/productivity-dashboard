@@ -2,6 +2,18 @@
 
 A modern, feature-rich task management and productivity dashboard built with Next.js, React, TypeScript, and Tailwind CSS. Features beautiful animations, glassmorphism design, and a futuristic aesthetic.
 
+
+## 🌐 Live Demo
+
+**[👉 View Live Demo](https://productivity-dashboard-2026.vercel.app)** ← Click here to try it!
+
+*Experience the full application without any installation required!*
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Geethanjanreddy/productivity-dashboard)
+
+---
+
+
 ![Dashboard Preview](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
