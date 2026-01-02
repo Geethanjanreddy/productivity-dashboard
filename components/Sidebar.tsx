@@ -43,7 +43,7 @@ export default function Sidebar({ isOpen, onToggle }: SidebarProps) {
             className="flex items-center gap-3"
           >
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-neon-cyan to-neon-purple flex items-center justify-center font-display font-bold text-white text-xl">
-              P
+              PD
             </div>
             {isOpen && (
               <motion.span
