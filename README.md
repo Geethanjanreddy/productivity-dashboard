@@ -217,7 +217,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Peram Geethanjanreddy**
 - GitHub: [@Geethanjanreddy](https://github.com/Geethanjanreddy)
 - Project: [productivity-dashboard-2026](https://productivity-dashboard-2026.vercel.app)
-- - LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/geethanjan27)
+- LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/geethanjan27)
 
 Feel free to reach out for collaborations or questions!
 
