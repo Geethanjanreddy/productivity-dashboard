@@ -76,8 +76,8 @@ export default function Header({ onMenuClick, isSidebarOpen }: HeaderProps) {
               <User className="w-5 h-5 text-white" />
             </div>
             <div className="hidden md:block text-left">
-              <p className="text-sm font-semibold text-white">John Doe</p>
-              <p className="text-xs text-gray-400">Product Manager</p>
+              <p className="text-sm font-semibold text-white">GeethanjanRedy</p>
+              <p className="text-xs text-gray-400">Developer</p>
             </div>
           </motion.button>
         </div>
