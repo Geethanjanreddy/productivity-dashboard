@@ -52,7 +52,7 @@ export default function Sidebar({ isOpen, onToggle }: SidebarProps) {
                 exit={{ opacity: 0 }}
                 className="text-xl font-display font-bold gradient-text"
               >
-                ProDash
+                ReddyDash
               </motion.span>
             )}
           </motion.div>

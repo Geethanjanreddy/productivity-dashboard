@@ -12,26 +12,7 @@ A production-ready **Productivity Dashboard** featuring:
 - 🏷️ Tag management system
 - 📅 Due date tracking with overdue detection
 
-## 🚀 Getting Started (3 Steps)
 
-### Step 1: Extract and Navigate
-```bash
-# Extract the project if it's zipped
-unzip productivity-dashboard.zip
-
-# Navigate to the project
-cd productivity-dashboard
-```
-
-### Step 2: Install Dependencies
-```bash
-npm install
-```
-
-### Step 3: Run the App
-```bash
-npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser! 🎉
 
