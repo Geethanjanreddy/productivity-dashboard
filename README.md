@@ -5,7 +5,7 @@ A modern, feature-rich task management and productivity dashboard built with Nex
 
 ## 🌐 Live Demo
 
-**[👉 View Live Demo](https://productivity-dashboard-2026.vercel.app)** ← Click here to try it!
+**[👉 View Live Demo](https://productivity-dashboard-geethanjan.vercel.app/)** ← Click here to try it!
 
 *Experience the full application without any installation required!*
 
